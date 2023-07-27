@@ -1,0 +1,15 @@
+No.,Outlook,Temp,Humidity,Windy,Play
+1,Sunny,1,1,0,No
+2,Sunny,1,1,1,No
+3,Overcast,1,1,0,Yes
+4,Rainy,2,1,0,Yes
+5,Rainy,3,0,0,Yes
+6,Rainy,3,0,1,No
+7,Overcast,3,0,1,Yes
+8,Sunny,2,1,0,No
+9,Sunny,2,0,0,Yes
+10,Rainy,2,0,0,Yes
+11,Sunny,2,0,1,Yes
+12,Overcast,2,1,1,yes
+13,Overcast,1,0,0,Yes
+14,Rainy,2,1,1,No
